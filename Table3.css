@@ -1,0 +1,31 @@
+table, th, td{
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    border-color: gray;
+    padding: 20px 70px;
+}
+th{
+    background-color: rgb(0, 85, 255);
+    color: aliceblue;
+    font-size: 20px;
+
+}
+caption{
+    background-color: orange;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 15px;
+    width: 50%;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+table{
+    margin: auto;
+   
+   
+}
+div{
+    margin-top: 40px;
+}
